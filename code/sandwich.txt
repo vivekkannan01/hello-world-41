@@ -1,0 +1,13 @@
+estimate: 25 lines
+
+Pick one slice of bread. 
+Place the bread on a plate
+Open the peanut butter jar
+Pick a butter knife
+Use the butter knife to take one scoop of peanut butter
+Use the butter knife to spread the peanut butter on the bread slice on the plate
+Close the peanut butter jar
+Pick another slice of bread. 
+Place the second slice of bread adjacent to the first slice of bread that is on the plate. 
+dUse a
+
